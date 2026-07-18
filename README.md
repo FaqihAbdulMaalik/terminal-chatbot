@@ -234,6 +234,6 @@ MIT — do whatever you want.
 
 ## Author
 
-Built by **faqihabdulmaalik** — a proud vibecoder.
+Built by **faqihabdulmaalik** — data analyst & vibecoder.
 
 **S.P.I.K.E = System for Personalized Intelligence, Knowledge & Execution** ⚡
